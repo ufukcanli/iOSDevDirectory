@@ -241,7 +241,7 @@
             "title": "Alexander Sandberg’s Blog",
             "author": "Alexander Sandberg",
             "site_url": "https://alexandersandberg.com",
-            "feed_url": "https://alexandersandberg.com/feed.xml",
+            "feed_url": "https://alexandersandberg.com/feed.rss",
             "twitter_url": "https://twitter.com/alexandberg"
           },
           {
@@ -4221,7 +4221,7 @@
             "title": "Sven Weidauer’s Blog",
             "author": "Sven Weidauer",
             "site_url": "https://5sw.de/",
-            "feed_url": "https://5sw.de/feed/",
+            "feed_url": "http://5sw.de/feed.xml",
             "twitter_url": "https://twitter.com/5sw_de"
           },
           {
