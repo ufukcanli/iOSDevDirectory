@@ -241,7 +241,7 @@
             "title": "Alexander Sandberg’s Blog",
             "author": "Alexander Sandberg",
             "site_url": "https://alexandersandberg.com",
-            "feed_url": "https://alexandersandberg.com/feed.xml",
+            "feed_url": "https://alexandersandberg.com/feed.rss",
             "twitter_url": "https://twitter.com/alexandberg"
           },
           {
@@ -3030,7 +3030,7 @@
             "title": "Mike Swanson’s Blog",
             "author": "Mike Swanson",
             "site_url": "https://blog.mikeswanson.com/",
-            "feed_url": "https://blog.mikeswanson.com/rss",
+            "feed_url": "https://blog.mikeswanson.com/feed/",
             "twitter_url": "https://twitter.com/anyware"
           },
           {
@@ -3743,8 +3743,8 @@
           {
             "title": "Riley Testut’s Blog",
             "author": "Riley Testut",
-            "site_url": "http://rileytestut.com/blog/",
-            "feed_url": "http://rileytestut.com/feed.xml",
+            "site_url": "https://rileytestut.com/blog/",
+            "feed_url": "https://rileytestut.com/feed.xml",
             "twitter_url": "https://twitter.com/rileytestut"
           },
           {
@@ -4221,7 +4221,7 @@
             "title": "Sven Weidauer’s Blog",
             "author": "Sven Weidauer",
             "site_url": "https://5sw.de/",
-            "feed_url": "https://5sw.de/feed/",
+            "feed_url": "http://5sw.de/feed.xml",
             "twitter_url": "https://twitter.com/5sw_de"
           },
           {
@@ -4338,7 +4338,7 @@
             "title": "Swift Toolkit",
             "author": "Natan Rolnik",
             "site_url": "https://swifttoolkit.dev/",
-            "feed_url": "https://swifttoolkit.dev/feed.xml",
+            "feed_url": "https://swifttoolkit.dev/feed.rss",
             "twitter_url": "https://twitter.com/swifttoolkit",
             "mastodon_url": "https://mastodon.social/@swifttoolkit"
           },
@@ -5022,8 +5022,8 @@
           {
             "title": "Mathew Sanders’ Blog",
             "author": "Mathew Sanders",
-            "site_url": "http://mathewsanders.com",
-            "feed_url": "http://mathewsanders.com/feed.xml",
+            "site_url": "https://mathewsanders.com/",
+            "feed_url": "https://mathewsanders.com/",
             "twitter_url": "https://twitter.com/permakittens"
           },
           {
@@ -6776,8 +6776,8 @@
           {
             "title": "MrPeak杂货铺",
             "author": "MrPeak",
-            "site_url": "http://mrpeak.cn/",
-            "feed_url": "http://mrpeak.cn/feed.xml",
+            "site_url": "https://www.mrpeak.cn/",
+            "feed_url": "https://www.mrpeak.cn/feed.xml",
             "twitter_url": "https://twitter.com/MrPeak_"
           },
           {
