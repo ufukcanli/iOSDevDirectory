@@ -5672,7 +5672,7 @@
             "title": "Lickability Blog",
             "author": "Lickability Team",
             "site_url": "https://lickability.com/blog/",
-            "feed_url": "https://lickability.com/blog/feed/",
+            "feed_url": "https://lickability.com/feed.xml",
             "twitter_url": "https://twitter.com/lickability"
           },
           {
@@ -6910,7 +6910,7 @@
           {
             "title": "SwiftGG",
             "author": "SwiftGG翻译组",
-            "site_url": "https://swift.gg/",
+            "site_url": "https://dan.com/buy-domain/swift.gg?redirected=true",
             "feed_url": "https://swift.gg/atom.xml",
             "weibo_url": "https://weibo.com/swiftguide"
           },
