@@ -192,7 +192,7 @@
             "title": "Alejandro Martinez's Blog",
             "author": "Alejandro Martinez",
             "site_url": "https://alejandromp.com",
-            "feed_url": "https://alejandromp.com/blog/feed.xml",
+            "feed_url": "https://alejandromp.com/development/feed.rss",
             "twitter_url": "https://twitter.com/alexito4"
           },
           {
@@ -2087,8 +2087,8 @@
           {
             "title": "Indie Spark",
             "author": "Sasmito Adibowo",
-            "site_url": "https://indiespark.top/tag/ios/",
-            "feed_url": "https://indiespark.top/tag/ios/feed/"
+            "site_url": "https://indiespark.top/cgi-sys/suspendedpage.cgi",
+            "feed_url": "https://indiespark.top/cgi-sys/suspendedpage.cgi"
           },
           {
             "title": "Indie Stack",
@@ -5266,8 +5266,8 @@
           {
             "title": "Indie Spark",
             "author": "Sasmito Adibowo",
-            "site_url": "https://indiespark.top/tag/app-store/",
-            "feed_url": "https://indiespark.top/tag/app-store/feed/",
+            "site_url": "https://indiespark.top/cgi-sys/suspendedpage.cgi",
+            "feed_url": "https://indiespark.top/cgi-sys/suspendedpage.cgi",
             "twitter_url": "https://twitter.com/cutecoder"
           },
           {
@@ -5369,7 +5369,7 @@
           {
             "title": "Big Nerd Ranch",
             "author": "Big Nerd Ranch Team",
-            "site_url": "https://bignerdranch.com/blog/category/ios/",
+            "site_url": "https://bignerdranch.com/blog/category/ios",
             "feed_url": "https://bignerdranch.com/blog/category/ios/feed/",
             "twitter_url": "https://twitter.com/bignerdranch"
           },
@@ -5672,7 +5672,7 @@
             "title": "Lickability Blog",
             "author": "Lickability Team",
             "site_url": "https://lickability.com/blog/",
-            "feed_url": "https://lickability.com/blog/feed/",
+            "feed_url": "https://lickability.com/feed.xml",
             "twitter_url": "https://twitter.com/lickability"
           },
           {
@@ -6066,7 +6066,7 @@
           {
             "title": "More Than Just Code",
             "author": "Tim Mitra, Jaime Lopez Jr, Mark Rubin",
-            "site_url": "https://www.mtjc.fm/",
+            "site_url": "https://morethanjustcode.com",
             "feed_url": "https://access.acast.com/rss/646bd59620e0700011d52174/",
             "twitter_url": "https://twitter.com/mtjc_podcast"
           },
@@ -6910,7 +6910,7 @@
           {
             "title": "SwiftGG",
             "author": "SwiftGG翻译组",
-            "site_url": "https://swift.gg/",
+            "site_url": "https://dan.com/buy-domain/swift.gg?redirected=true",
             "feed_url": "https://swift.gg/atom.xml",
             "weibo_url": "https://weibo.com/swiftguide"
           },
@@ -7553,7 +7553,7 @@
           {
             "title": "DoorDash Engineering Blog",
             "author": "DoorDash Engineering Team",
-            "site_url": "https://doordash.engineering/category/mobile/",
+            "site_url": "https://careers.doordash.com/blog/?category=Mobile",
             "feed_url": "https://doordash.engineering/category/mobile/feed/",
             "twitter_url": "https://twitter.com/doordasheng"
           },
